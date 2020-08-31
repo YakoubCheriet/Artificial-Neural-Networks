@@ -11,7 +11,7 @@ Excel with the name “Notes” with the means correspond calculate with
 coe cients of the second semester Master 1 STIC of the di erent modules and again save them in an Excel file “Averages”
 
 Toolbox configuration:
-• Put them in notes (in my case the le `Input.mat ') and the average output `Output.mat '
+• Put them in notes (in my case the le 'Input.mat') and the average output 'Output.mat'
 • Choose the training function: TRAINLLM
 • Choose the adaptation function: LEARNGDM
 • And the MSE performance function, which calculates the error rate
@@ -29,8 +29,7 @@ With the following training state:
 With the following progression:
 
 
-The result is in the form of a matrix in the two les `Cal_Moyen_Errors.mat '
-and `Cal_Moyen_Output.mat 'which contains the weights calculated during training
+The result is in the form of a matrix in the two files 'Cal_Moyen_Errors.mat' and 'Cal_Moyen_Output.mat' which contains the weights calculated during training
 
 
 Execution part:
