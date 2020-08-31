@@ -25,13 +25,16 @@ Toolbox configuration:
 After con guration on a leash, the network trains, it will calculate after
 the weights with an error rate (in my case 10ˆ -3 to 10ˆ -2)
 
-And gives us the following performance: 
+And gives us the following performance:
+
 ![performance](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Performance.PNG?raw=true)
 
 With the following training state:
+
 ![training state](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Etats%20d'entrainement.PNG?raw=true)
 
 With the following progression:
+
 ![progression](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Progression.PNG?raw=true)
 
 The result is in the form of a matrix in the two files 'Cal_Moyen_Errors.mat' and 'Cal_Moyen_Output.mat' which contains the weights calculated during training
