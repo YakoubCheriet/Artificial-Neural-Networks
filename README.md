@@ -16,7 +16,7 @@ Toolbox configuration:
 • Choose the training function: TRAINLLM
 • Choose the adaptation function: LEARNGDM
 • And the MSE performance function, which calculates the error rate
-• The number of neurons and stay by default `10 '
+• The number of neurons and stay by default '10'
 
 After con guration on a leash, the network trains, it will calculate after
 the weights with an error rate (in my case 10ˆ -3 to 10ˆ -2)
@@ -38,4 +38,3 @@ Execution part:
 The Main: launches an interface or the selection of a list of notes from an Excel file
 The calculation is done by clicking on calculate
 It will return the result with the average and the decision (ADMITTED or REJECTED)
-----------
