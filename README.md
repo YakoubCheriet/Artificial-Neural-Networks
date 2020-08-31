@@ -18,7 +18,7 @@ Toolbox configuration:
 • And the MSE performance function, which calculates the error rate
 • The number of neurons and stay by default '10'
 
-https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Network%20Options.PNG?raw=true
+(https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Network%20Options.PNG?raw=true)
 
 https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/nntool.PNG?raw=true
 
