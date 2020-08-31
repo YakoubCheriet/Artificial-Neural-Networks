@@ -18,21 +18,21 @@ Toolbox configuration:
 • And the MSE performance function, which calculates the error rate
 • The number of neurons and stay by default '10'
 
-![Menu](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Network%20Options.PNG?raw=true)
+![Toolbox configuration](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Network%20Options.PNG?raw=true)
 
-![Menu](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/nntool.PNG?raw=true)
+![Toolbox configuration](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/nntool.PNG?raw=true)
 
 After con guration on a leash, the network trains, it will calculate after
 the weights with an error rate (in my case 10ˆ -3 to 10ˆ -2)
 
 And gives us the following performance: 
-![Menu](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Performance.PNG?raw=true)
+![performance](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Performance.PNG?raw=true)
 
 With the following training state:
-![Menu](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Etats%20d'entrainement.PNG?raw=true)
+![training state](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Etats%20d'entrainement.PNG?raw=true)
 
 With the following progression:
-![Menu](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Progression.PNG?raw=true)
+![progression](https://github.com/YakoubCheriet/Artificial-Neural-Networks/blob/master/Implimentation/NNTool/Progression.PNG?raw=true)
 
 The result is in the form of a matrix in the two files 'Cal_Moyen_Errors.mat' and 'Cal_Moyen_Output.mat' which contains the weights calculated during training
 
